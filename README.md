@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Lethokuhle, but you can call me Letho (because it's easier to pronounce!)
-- 👀 I’m interested in working with people, listening to other people talk about their journey in tech, bainstorming better ways to improve the quality of education in rural schools with regards to the evolution tech and also reading :)
-- 🌱 I’m currently learning and a 3rd year student doing ICT in Applications Dev
-- 💞️ I’m looking to collaborate on any project so that i can improve my coding skills
-- 📫 How to reach me : on my email - lethokuhle.shandu@studentambassadors.com or shanduletho@gmail.com
+👋 Hey there! I'm Lethokuhle Shandu!
+
+🚀 About Me  
+I'm a passionate Software Test Analyst who loves technology, automation, and ensuring software quality. When I'm not testing and breaking things (intentionally 😆), you can find me exploring nature 🌿, attending tech events 🤝, and learning new tools 🔧.  
+
+🔥 What I Do  
+- 🛠 Software Testing – Ensuring software works as expected (and catching those sneaky bugs 🐛)  
+- 💡 Problem Solver – Love debugging and optimizing code for efficiency  
+- 📂 Tech Stack – Python, SQL, Selenium, Git, and more!  
+- 🎯 Continuous Learning – Always improving and exploring new technologies  
+
+🌍 Let's Connect!  
+LinkedIn:www.linkedin.com/in/lethokuhle-shandu
+Email: shanduletho@gmail.com
+
+---
+
+✨ "Quality is never an accident; it is always the result of intelligent effort." – John Ruskin ✨  
+
 
 <!---
 LethoS23/LethoS23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
