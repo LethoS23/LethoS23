@@ -11,6 +11,7 @@ I'm a passionate Software Test Analyst who loves technology, automation, and ens
 
 🌍 Let's Connect!  
 LinkedIn:www.linkedin.com/in/lethokuhle-shandu
+
 Email: shanduletho@gmail.com
 
 ---
